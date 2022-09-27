@@ -1,11 +1,16 @@
 _repo: Women-and-economic-evolution-or-The-effects-of-industrial-changes-upon-the-status-of-women_69021
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69021-h/images/cover.jpg
 creator:
   author:
     agent_name: McMahon, Theresa Schmid
     gutenberg_agent_id: '55061'
     url: http://www.gutenberg.org/2009/agents/55061
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69021#Women-and-economic-evolution-or-The-effects-of-industrial-changes-upon-the-status-of-women
 gutenberg_issued: '2022-09-21'
 identifiers:
   gutenberg: '69021'
